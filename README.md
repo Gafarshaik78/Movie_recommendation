@@ -151,8 +151,4 @@ Here are some key visualizations included:
 2. Include time-based collaborative filtering.
 3. Integrate with real-world movie APIs (e.g., TMDb).
 
----
-
-## License
-This project is licensed under the MIT License.
 
